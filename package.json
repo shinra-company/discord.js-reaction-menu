@@ -16,7 +16,7 @@
     "url": "https://github.com/juby210-PL/discord.js-reaction-menu/issues"
   },
   "homepage": "https://github.com/juby210-PL/discord.js-reaction-menu#readme",
-  "dependencies": {
+  "peerDependencies": {
     "discord.js": "github:discordjs/discord.js"
   }
 }
